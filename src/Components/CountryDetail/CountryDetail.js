@@ -12,7 +12,7 @@ const CountryDetail = () => {
             .then(response => response.json())
             .then(data => setCountry(data[0]))
         
-    }, [])
+    }, [countryName])
 
         const {name , flag , population , capital} = country;
 
