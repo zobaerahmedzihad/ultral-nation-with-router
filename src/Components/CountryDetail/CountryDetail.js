@@ -14,7 +14,7 @@ const CountryDetail = () => {
         
     }, [countryName])
 
-        const {name , flag , population , capital} = country;
+        const {name} = country;
 
     return (
     <div>
