@@ -1,4 +1,4 @@
-### Hi there, I'm Zobaer Ahmed Zihad - aka [codeSTACKr][website] 👋
+### Hi there, I'm Zobaer Ahmed Zihad  👋
 
 [facebook]: https://www.facebook.com/zobaer.ahmed.zihad
 [instagram]: https://www.instagram.com/zobaer_ahmed_zihad/
